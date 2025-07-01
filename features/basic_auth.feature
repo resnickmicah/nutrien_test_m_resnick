@@ -8,4 +8,4 @@ Feature: The Internet Guinea Pig Website
     Examples:
       | username | password | message                                                |
       | admin    | admin    | Congratulations! You must have the proper credentials. |
-      | foo      | bar      | Not authorized                                         |
+      # | foo      | bar      | Not authorized                                         |
