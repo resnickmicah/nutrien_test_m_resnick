@@ -9,7 +9,8 @@ We're trying to test https://the-internet.herokuapp.com/ but, it's going horribl
 
 ## Node JS
 
-The recommended node version is v20.19.3
+The recommended node version is v20.19.3.
+
 We recommend using nvm to install and manage node versions. It can be found at https://github.com/nvm-sh/nvm.
 
 ## Running Tests
