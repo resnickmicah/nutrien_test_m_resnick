@@ -1,3 +1,9 @@
+# Hello, hiring manager!
+
+I made modifications to this test suite as part of a previous application process. Daniel Stout, the other contributor to this repo, was my interviewer. The rest of this README was written by him, with some small modifications by yours truly when I updated the node version.
+
+---
+
 # The internet is broken
 
 We're trying to test https://the-internet.herokuapp.com/ but, it's going horribly. Goodness gracious, barely any tests are green. Please help us by doing the following:
